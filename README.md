@@ -6,3 +6,4 @@ Commit - save files in git
 push - upload to remote repo
 Pull - download changes from remote repo to local
 Repo - project
+i dont know how to make linebreaks
