@@ -6,3 +6,4 @@ lettuce
 lime
 tomato
 sour cream
+cheese
